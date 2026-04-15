@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=platinum1154&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/platinum1154/platinum1154/main/assets/github-contribution-grid-snake.svg)
 <!--
 **Platinum1154/platinum1154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
