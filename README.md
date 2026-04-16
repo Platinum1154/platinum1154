@@ -1,5 +1,8 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/platinum1154/platinum1154/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Platinum1154/platinum1154/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 **Platinum1154/platinum1154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
