@@ -1,7 +1,12 @@
 ## Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.platinum1154)
 ![](https://raw.githubusercontent.com/Platinum1154/platinum1154/refs/heads/output/github-contribution-grid-snake-dark.svg)
-
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platinum1154/platinum1154/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platinum1154/platinum1154/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <!--
