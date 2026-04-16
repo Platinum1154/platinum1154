@@ -1,4 +1,5 @@
 ## Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.platinum1154)
 ![](https://raw.githubusercontent.com/Platinum1154/platinum1154/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 
